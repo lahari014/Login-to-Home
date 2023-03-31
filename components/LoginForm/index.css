@@ -1,0 +1,58 @@
+/* Write your CSS code here */
+.login-img {
+  height: 700px;
+  width: 750px;
+}
+.login {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.login-card {
+  box-shadow: 0px 4px 16px 0px;
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+  font-family: 'Roboto';
+}
+.loginImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textBox {
+  background-color: #e2e8f0;
+  color: #64748b;
+  border-width: 0px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.login-but {
+  background-color: #0967d2;
+  padding: 10px;
+  border-radius: 10px;
+  width: 250px;
+  border-width: 0px;
+  color: white;
+  text-align: center;
+}
+.but {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.error-msg {
+  color: #ff0b37;
+}

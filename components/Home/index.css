@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  justify-content: space-between;
+}
+.home-but {
+  color: white;
+  background-color: #0967d2;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  border-width: 0px;
+  width: 150px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.home-header {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.home-para {
+  color: #64748b;
+  font-family: 'Roboto';
+  padding: 10px;
+  font-size: 20px;
+}

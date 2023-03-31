@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.logo {
+  height: 50px;
+  width: 120px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.list-item {
+  color: #64748b;
+  font-size: 30px;
+  margin: 20px;
+}
+.item {
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 3px;
+  padding: 10px;
+  font-size: 30px;
+  margin: 10px;
+}
